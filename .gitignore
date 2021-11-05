@@ -1,3 +1,13 @@
+# Python venv
+bin/*
+include/*
+lib/*
+lib64
+pyvenv.cfg
+
+# Visual Studio Code
+.vscode/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
